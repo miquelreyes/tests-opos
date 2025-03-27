@@ -1,0 +1,298 @@
+1. Una sede electrónica de una administración pública es:
+a) Una dirección de correo electrónico habilitada.
+b) Una dirección de correo electrónico habilitada única.
+c) Una dirección electrónica.
+d) Todas las respuestas son incorrectas.
+
+2. ¿Cuál es el elemento a través del cual se efectúan todas las actuaciones y trámites referidos a procedimientos o servicios que requieren la identificación de la Administración Pública?
+a) El portal de Internet.
+b) El Punto de Acceso General.
+c) La sede electrónica.
+d) La Carpeta Ciudadana.
+
+3. Señala la respuesta correcta:
+a) La titularidad de la sede electrónica corresponde a una administración pública, o bien a uno o más organismos públicos o entidades de derecho público en el ámbito de sus competencias.
+b) La titularidad de la sede electrónica corresponde a una administración pública y a todos los organismos públicos o entidades de derecho público dependientes en el ámbito de sus competencias.
+c) La titularidad de la sede electrónica corresponde a una administración pública y, en todo caso, a la Administración General del Estado.
+d) La titularidad de la sede electrónica corresponde al máximo órgano responsable en materia de transformación digital de cada administración pública.
+
+4. La titularidad de la sede electrónica corresponde a:
+a) Una administración pública, entre otros.
+b) Un único organismo público o entidad de derecho público o privado, entre otros.
+c) Uno o más organismos públicos o entidades de derecho público o privado, entre otros.
+d) Las respuestas a) y c) son correctas.
+
+5. ¿Puede corresponder la titularidad de una sede electrónica a más de una entidad de derecho público?
+a) No, puesto que siempre corresponde a una administración pública.
+b) No, puede corresponder a una entidad de derecho público, pero no a más de una.
+c) Sí, en el ámbito de sus competencias.
+d) Sí, siempre que sea titular a la vez la administración pública de la que depende.
+
+6. De acuerdo con el artículo 38 de la Ley 40/2015, de 1 de octubre, de régimen jurídico del sector público, señale la respuesta incorrecta:
+a) El establecimiento de una sede electrónica comporta la responsabilidad del titular respecto de la integridad, veracidad y actualización de la información y los servicios a los que se pueda acceder a través de la sede.
+b) Las sedes electrónicas deben disponer de sistemas que permitan establecer comunicaciones seguras siempre que sean necesarias.
+c) La publicación en las sedes electrónicas de informaciones, servicios y transacciones debe respetar los principios de accesibilidad y uso de acuerdo con las normas establecidas al respecto.
+d) La publicación en las sedes electrónicas de informaciones, servicios y transacciones debe respetar los principios de accesibilidad y diseño universal de acuerdo con las normas establecidas al respecto.
+
+7. De acuerdo con el artículo 38 de la Ley 40/2015, de 1 de octubre, de régimen jurídico del sector público, señale la respuesta correcta:
+a) Las sedes electrónicas deben utilizar, para identificarse y garantizar una comunicación segura con estas sedes, certificados reconocidos o calificados de autenticación de sitio web o un medio equivalente.
+b) Las sedes electrónicas deben utilizar, para identificarse y garantizar una comunicación segura con estas sedes, certificados reconocidos y calificados de autenticación de sitio web o un medio equivalente.
+c) Las sedes electrónicas deben utilizar, para identificarse y garantizar una comunicación segura con estas sedes, certificados reconocidos o calificados de persona física o de representante de persona jurídica, o un medio equivalente.
+d) Las sedes electrónicas deben utilizar, para identificarse y garantizar una comunicación segura con estas sedes, certificados reconocidos y calificados de persona física o de representante de persona jurídica, o un medio equivalente.
+
+8. En materia de funcionamiento del sector público por medios electrónicos, ¿se pueden crear sedes electrónicas asociadas?
+a) No, este concepto no existe.
+b) Sí, por razones técnicas y organizativas.
+c) Sí, por razones técnicas y procedimentales.
+d) No, la sede electrónica es única.
+
+9. Uno de los contenidos mínimos que debe disponer una sede electrónica es:
+a) El calendario de días inhábiles del año en curso, y del año anterior y posterior, a efectos de cómputo de plazos.
+b) El calendario de días inhábiles del año en curso y del año anterior, a efectos de cómputo de plazos.
+c) El calendario de días hábiles a efectos de cómputo de plazos.
+d) Todas las respuestas son incorrectas.
+
+10. ¿Cuál de las siguientes no forma parte de la información necesaria que debe publicar toda sede electrónica?
+a) Información relativa a la propiedad intelectual.
+b) Información relativa a la protección de datos personales.
+c) Información de accesibilidad.
+d) Información de seguridad universal.
+
+11. ¿Dónde se aloja la dirección de correo electrónico habilitada única?
+a) En la sede electrónica del Punto de Acceso General electrónico de la Administración General del Estado.
+b) En la sede electrónica del Punto de Acceso General electrónico de la Administración General del Estado y en todas sus sedes electrónicas asociadas.
+c) En la sede electrónica de cada administración pública.
+d) En la sede electrónica de cada administración pública y en todas sus sedes electrónicas asociadas.
+
+12. La sede electrónica de la Administración de la Comunidad Autónoma de las Illes Balears es accesible públicamente en la dirección:
+a) https://www.goib.es/seucaib
+b) http://www.illesbalears.cat
+c) http://www.caib.es
+d) https://intranet.caib.es/seucaib
+
+13. El principio de interoperabilidad hace referencia a la capacidad de compartir datos y posibilitar el intercambio de información. ¿Qué elementos debe tener esa capacidad?
+a) Los sistemas de información.
+b) Los sistemas de información y los procedimientos a los que dan soporte.
+c) Los procedimientos a los que dan soporte los sistemas de información.
+d) Los trámites de los procedimientos a los que dan soporte los sistemas de información.
+
+14. Las administraciones públicas, al tomar aquellas decisiones tecnológicas para garantizar la interoperabilidad, deben tener en cuenta el Esquema Nacional de Interoperabilidad. ¿Qué comprende este esquema?
+a) Medidas y reglas.
+b) Criterios y recomendaciones.
+c) Recomendaciones y protocolos.
+d) Protocolos y especificaciones técnicas.
+
+15. ¿Cuál de las siguientes opciones no se considera un principio específico del Esquema Nacional de Interoperabilidad?
+a) La interoperabilidad como calidad integral.
+b) Carácter multidimensional de la interoperabilidad.
+c) Enfoque de soluciones multilaterales.
+d) Neutralidad tecnológica y adaptabilidad al progreso de las técnicas y los sistemas de comunicaciones electrónicas.
+
+16. De acuerdo con uno de los principios específicos del Esquema Nacional de Interoperabilidad, ¿cuáles son las dimensiones que le dan el carácter multidimensional a la interoperabilidad?
+a) Organizativa, semántica y técnica.
+b) Funcional, temporal y tecnológica.
+c) Técnica, organizativa y funcional.
+d) Semántica, temporal y tecnológica.
+
+17. De acuerdo con el Real Decreto 4/2010, por el que se regula el Esquema Nacional de Interoperatividad, qué dimensión de la interoperabilidad es aquélla que hace referencia a la capacidad de las entidades y de los procesos a través de los cuales se llevan a cabo sus actividades para colaborar con el objetivo de conseguir logros mutuamente acordados relativos a los servicios que prestan?
+a) Interoperabilidad técnica.
+b) Interoperabilidad organizativa.
+c) Interoperabilidad semántica.
+d) Interoperabilidad, por lo general.
+
+18. Señala la respuesta incorrecta en relación con las normas técnicas de interoperabilidad:
+a) Son de obligado cumplimiento por parte de las administraciones públicas.
+b) Son recomendaciones técnicas sobre aspectos concretos de interoperabilidad entre las administraciones públicas y con la ciudadanía, que una administración pública puede tener en cuenta.
+c) Se constituyen grupos de trabajo, en los órganos colegiados con competencia en materia de administración electrónica, que redactan y mantienen las normas técnicas.
+d) El Ministerio de Asuntos Económicos y Transformación Digital podrá aprobar futuras normas, siempre que sean necesarias para garantizar el adecuado nivel de interoperabilidad.
+
+19. ¿Cuál de las siguientes opciones no es una Norma Técnica de Interoperabilidad?
+a) Catálogo de estándares.
+b) Política de sello electrónico y de certificados de la Administración.
+c) Relación de modelos de datos.
+d) Reutilización de recursos de información.
+
+20. De acuerdo con la Norma Técnica de Documento Electrónico, ¿cuáles son los componentes de un documento electrónico?
+a) Contenido, firma electrónica, en su caso, y metadatos del documento electrónico.
+b) Contenido, índice electrónico, en su caso, y firma electrónica.
+c) Contenido, firma electrónica y metadatos del documento electrónico.
+d) Contenido, índice electrónico y metadatos del documento electrónico.
+
+21. En el ámbito de la administración electrónica y de acuerdo con la Norma Técnica del Expediente Electrónico, ¿cómo pueden incluirse documentos electrónicos en un expediente electrónico?
+a) Directamente como elementos independientes.
+b) Dentro de una carpeta, entendida como una agrupación de elementos electrónicos y creada por motivo funcional.
+c) Como parte de otro expediente, imbricado en el primero.
+d) Todas las respuestas son correctas.
+
+22. En el ámbito de la administración electrónica y de acuerdo con la Norma Técnica de Digitalización de Documentos, señale cuál es el nivel de resolución mínimo para imágenes electrónicas:
+a) 200 píxeles por pulgada, tanto para imágenes obtenidas en blanco y negro, como en color o escala de grises.
+b) 250 píxeles por pulgada para imágenes obtenidas en color, y 150 píxeles por pulgada para imágenes en blanco y negro o escala de grises.
+c) 300 píxeles por pulgada para imágenes obtenidas en color, y 250 píxeles por pulgada para imágenes en escala de grises, y 200 píxeles por pulgada para imágenes en blanco y negro.
+d) Esta norma técnica no exige una resolución mínima de píxeles por pulgada, mientras la imagen electrónica obtenida respete la geometría del documento de origen en tamaño y proporciones, y no añada caracteres especiales.
+
+23. El Esquema Nacional de Interoperabilidad establece que las administraciones públicas españolas deben conectarse a una red de comunicaciones para comunicarse entre sí. ¿De qué red se trata?
+a) SARA (Sistema de Aplicaciones y Redes para las Administraciones).
+b) TESTA (Trans European Services for Telematics between Administrations).
+c) Inter@dmin (Red Interadministrativa).
+d) El Esquema Nacional de Interoperabilidad no hace referencia a ninguna red concreta.
+24. Señale la respuesta incorrecta con relación a los aspectos temporales que intervienen en las comunicaciones de las administraciones públicas y de acuerdo con los aspectos de interoperabilidad:
+a) Los sistemas implicados en la provisión de un servicio público por vía electrónica deben sincronizarse con la hora oficial.
+b) Las aplicaciones implicadas en la provisión de un servicio público por vía electrónica deben llevar a cabo una sincronización principal y obligatoria con el servidor de custodia de tiempo que tiene implantada cada administración pública en el ámbito autonómico, y una sincronización secundaria y opcional con el Real Instituto y Observatorio de la Armada.
+c) Si es posible, la sincronización de la fecha y hora debe realizarse con la hora oficial en el ámbito europeo.
+d) La precisión de la sincronización será tal que garantice la certeza de los plazos establecidos en el trámite administrativo que satisface al sistema que provee el servicio electrónico.
+
+25. ¿Qué norma hace referencia al Sistema de Interconexión de Registros?
+a) El artículo 6 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas.
+b) El artículo 16 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas.
+c) El artículo 60 del Real decreto 203/2021, de 30 de marzo, por el que se aprueba el Reglamento de actuación y funcionamiento del sector público por medios electrónicos.
+d) El artículo 61 del Real decreto 203/2021, de 30 de marzo, por el que se aprueba el Reglamento de actuación y funcionamiento del sector público por medios electrónicos.
+
+26. ¿Cuál de las siguientes opciones son agentes que participan en los intercambios intermediados de datos entre administraciones públicas?
+a) Emisor, receptor y canal.
+b) Cedente, cesionario, otorgador y otorgado.
+c) Emisor, receptor, canal y mensaje.
+d) Cedente, cesionario, emisor y requirente.
+
+27. Como agente que participa en los intercambios intermediados de datos entre administraciones públicas, ¿qué es un cedente?
+a) Cualquier organización que posea datos relativos a la ciudadanía que otra pueda necesitar consultar en el ámbito del ejercicio de sus competencias.
+b) Desde el punto de vista tecnológico, aquél que facilita la cesión de los datos.
+c) Cualquier organización autorizada a consultar varios datos de la ciudadanía en poder de un emisor.
+d) Desde el punto de vista tecnológico, aquél que facilita la consulta de datos.
+
+28. Como agente que participa en los intercambios intermediados de datos entre administraciones públicas, ¿qué es un emisor?
+a) Cualquier organización que posea datos relativos a la ciudadanía que otra pueda necesitar consultar en el ámbito del ejercicio de sus competencias.
+b) Desde el punto de vista tecnológico, aquél que facilita la cesión de los datos.
+c) Cualquier organización autorizada a consultar varios datos de la ciudadanía en poder de un emisor.
+d) Desde el punto de vista tecnológico, aquél que facilita la consulta de datos.
+
+29. En particular, ¿qué permite gestionar la Plataforma de Interoperabilidad de las Illes Balears?
+a) Entidades, procedimientos, usuarios y roles.
+b) Órganos, servicios, usuarios y roles.
+c) Entidades, servicios, usuarios y procedimientos.
+d) Órganos, procedimientos, servicios y usuarios.
+
+30. ¿Cuál de las siguientes opciones no es una característica de la Plataforma de Interoperabilidad de las Illes Balears?
+a) Entorno monoentidad.
+b) Justificante de consulta.
+c) Auditorías.
+d) Estadísticas.
+
+31. ¿Cuál es el procedimiento para conocer qué servicios SCSP (Sustitución de Certificados en Soporte Papel) de la Administración General del Estado se pueden consultar a través de la Plataforma de Interoperabilidad de las Illes Balears y así poder solicitar la consulta?
+a) Consultar al órgano competente del servicio la información pertinente.
+b) Acceder a la Plataforma de Interoperabilidad General del Estado y seleccionar el servicio entre todos los servicios disponibles.
+c) Consultar el Catálogo de Servicios de Verificación y Consulta de Datos SCSP (Sustitución de Certificados en Soporte Papel).
+d) Acceder al apartado de servicios SCSP (Sustitución de Certificados en Soporte Papel) del portal de datos abiertos.
+
+32. ¿Dónde se detallan los servicios que se ofrecen mediante la Plataforma de Interoperabilidad de las Illes Balears?
+a) En el microsite de interoperabilidad del Gobierno de las Illes Balears.
+b) En el convenio de colaboración en materia de interoperabilidad telemática entre las administraciones públicas del ámbito territorial de las Illes Balears.
+c) En la sede electrónica del Gobierno de las Illes Balears.
+d) Todas las respuestas son incorrectas.
+
+33. En materia de servicios de tráfico de la Dirección General de Tráfico que se ofrecen a través de la Plataforma de Interoperabilidad de las Illes Balears, ¿se puede conocer la fecha de caducidad de la Inspección Técnica de Vehículos de un vehículo?
+a) Sí, a través del Servicio de Consulta de Datos de Vehículos para Sanciones.
+b) Sí, a través del Servicio de Consulta de Vigencia de la Inspección Técnica de Vehículos.
+c) No, actualmente este dato todavía no puede obtenerse a través de la plataforma.
+d) No, no se trata de un dato que pueda ofrecerse como servicio de intermediación entre administraciones.
+
+34. En la Plataforma de Interoperabilidad de las Illes Balears y haciendo uso del servicio de consulta del distintivo medioambiental de un vehículo, ¿cuáles de los siguientes conjuntos de datos podemos obtener a partir de una matrícula de coche?
+a) Nivel de contaminación y fecha de alta.
+b) Distintivo medioambiental y fecha de alta.
+c) Distintivo medioambiental, fecha de alta y nivel de contaminación.
+d) Este servicio no está disponible en la plataforma.
+
+35. En materia de servicios de identidad y extranjería de la Dirección General de Policía que se ofrecen a través de la Plataforma de Interoperabilidad de las Illes Balears, qué diferencia existe entre la consulta de datos de identidad y la verificación de datos de identidad?
+a) La primera reporta el nombre y apellidos del ciudadano una vez introducido el número de su DNI o NIE, mientras que la segunda sólo confirma que su DNI o NIE indicado coincide con el nombre completo indicado.
+b) La primera devuelve el nombre completo y la dirección del ciudadano una vez introducido su DNI o NIE, mientras que la segunda sólo confirma que su DNI o NIE indicado coincide con el nombre completo indicado.
+c) Ambas consultas devuelven la misma información: los datos completos que figuran en un DNI o NIE de un ciudadano.
+d) La verificación de datos de identidad no es un servicio intermediado que se ofrezca a través de la plataforma.
+
+36. Referente a los servicios que ofrece la Plataforma de Interoperabilidad de las Illes Balears, ¿cuál de los siguientes servicios no es un servicio propio?
+a) Consulta de datos de convivencia sobre los padrones municipales.
+b) Consulta de datos históricos sobre los padrones municipales.
+c) Verificación y consulta de datos de familia numerosa.
+d) Consulta de datos de identidad.
+
+37. El justificante de una consulta dentro de la Plataforma de Interoperabilidad de las Illes Balears:
+a) Es un justificante en formato PDF.
+b) Está firmado digitalmente.
+c) Incluye toda la información sobre la respuesta de la petición realizada.
+d) Todas las respuestas son correctas.
+
+38. ¿Cómo se accede a la Plataforma de Interoperabilidad de las Illes Balears?
+a) A través de Internet.
+b) A través de la red SARA.
+c) A través de una aplicación de escritorio.
+d) A través de un conector (plug-in) específico instalado en el navegador web.
+
+39. ¿Puede exigir la Administración Pública a un interesado que presente documentos originales?
+a) No, salvo que, con carácter excepcional, la normativa reguladora aplicable establezca lo contrario.
+b) No, salvo que lo establezca la normativa reguladora del correspondiente procedimiento.
+c) Sí, cuando la administración lo considere necesario para resolver el procedimiento.
+d) Las respuestas a) y b) son correctas.
+
+40. Indique la respuesta correcta en relación con la aportación de documentos por parte de los interesados. Con carácter general:
+a) Los interesados tienen derecho a no aportar documentos que ya se encuentren en poder de la Administración actuante.
+b) La Administración de la Comunidad Autónoma de las Illes Balears no podrá exigir la presentación de documentos si constan en el Catálogo de simplificación documental.
+c) Los interesados tienen derecho a no presentar documentos ante un ayuntamiento si éste puede obtenerlo de otro ayuntamiento.
+d) Todas las respuestas son correctas.
+
+41. Las copias de documentos que el interesado aporta en un procedimiento administrativo:
+a) Sólo tienen eficacia en el ámbito de la actividad de las administraciones públicas.
+b) Con carácter general, el interesado no puede presentar copias sino los originales.
+c) Sólo tienen eficacia en el ámbito de la administración pública actuante.
+d) No tienen validez ni eficacia.
+
+42. Si el empleado público que instruye un procedimiento administrativo tiene dudas sobre la veracidad de una copia de un documento aportado por el interesado:
+a) Con carácter general, puede requerirlo para que presente el documento original.
+b) Debe presentar la correspondiente denuncia ante la Fiscalía si sospecha que puede ser falso.
+c) Puede requerirlo en todo caso si se trata de un documento irrelevante para dictar la resolución del procedimiento.
+d) Todas las respuestas son incorrectas.
+
+43. Según el Decreto 6/2013, de 8 de febrero, de medidas de simplificación documental de los procedimientos administrativos, qué de estos documentos no puede exigir la Administración de la Comunidad Autónoma de las Islas Baleares a la ciudadanía?
+a) Los datos de identidad (DNI).
+b) Los datos de residencia.
+c) Los documentos que consten en el Catálogo de simplificación documental.
+d) Todas las respuestas son correctas.
+
+44. Según el Decreto 6/2013, de 8 de febrero, de medidas de simplificación documental de los procedimientos administrativos, la Administración autonómica no puede exigir a la ciudadanía la presentación de documentos:
+a) Cuando consten en el Catálogo de simplificación documental.
+b) Cuando se trate de un documento custodiado en el archivo electrónico.
+c) Cuando estén incorporados en la carpeta documental.
+d) Las respuestas a) y c) son correctas.
+
+45. En relación con la aportación de documentos por parte de los interesados, ¿en qué caso las administraciones públicas no deben exigir la presentación de documentos originales?
+a) La Administración nunca puede pedir documentos originales.
+b) Excepcionalmente, la Administración puede pedir el original del documento, en determinados casos.
+c) La Administración puede solicitar en cualquier momento la presentación del documento original.
+d) Todas las respuestas son incorrectas.
+
+46. Si un empleado público tiene dudas sobre la veracidad de una copia de un documento aportado por el interesado debido a una mala calidad de la copia, ¿qué puede hacer?
+a) Excepcionalmente puede requerir el original, de forma motivada.
+b) Debe requerir al interesado para que aporte el original, en cualquier circunstancia.
+c) Excepcionalmente, si considera que es un documento relevante para resolver el procedimiento, puede requerir el original, de manera motivada.
+d) Las respuestas a) y c) son correctas.
+
+47. ¿El interesado de un procedimiento puede oponerse a que la Administración consulte sus datos que están en poder de otra administración?
+a) Sí, en cualquier caso.
+b) No.
+c) No puede oponerse si la obtención de los datos se exige en el marco de un procedimiento sancionador.
+d) Todas las respuestas son incorrectas.
+
+48. Según la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas:
+a) Los interesados se responsabilizan de la veracidad de los documentos que presentan.
+b) El empleado público es responsable de la veracidad de los documentos que aporten los interesados.
+c) Ambas respuestas son correctas.
+d) La responsabilidad de la veracidad de los datos es del emisor del documento y, subsidiariamente, del interesado que aporta el documento.
+
+49. Según la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, si las administraciones públicas no pueden obtener telemáticamente los documentos del interesado que están en poder de otra administración:
+a) Con carácter general, pueden requerir al interesado para que aporte nuevamente el documento.
+b) Excepcionalmente pueden solicitar nuevamente al interesado que aporte el documento.
+c) Deben comunicarlo al interesado, quien decidirá si aporta o no el documento.
+d) Todas las respuestas son incorrectas.
+
+50. Indique la respuesta correcta en relación con la aportación de documentos por parte de los interesados:
+a) Las administraciones deben exigir a los interesados la presentación de documentos originales, salvo que, con carácter excepcional, la normativa reguladora aplicable establezca lo contrario.
+b)  Las administraciones no deben exigir a los interesados la presentación de documentos originales, salvo que, con carácter excepcional, la normativa reguladora aplicable establezca lo contrario.
+c) Las Administraciones no exigirán a los interesados la presentación de documentos originales, salvo que la normativa reguladora aplicable establezca lo contrario.
+d) Todas las respuestas son incorrectas.
