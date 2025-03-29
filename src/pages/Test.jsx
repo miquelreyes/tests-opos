@@ -32,7 +32,7 @@ const Test = () => {
 
   const shuffleQuestions = useCallback((questions, numQuestions) => {
     const shuffledQuestions = shuffleArray(questions).slice(0, numQuestions);
-    shuffledQuestions.map((question) => {
+    return shuffledQuestions.map((question) => {
       const originalOptions = [...question.options];
       const correctAnswer = originalOptions[question.answer];
 
@@ -48,8 +48,6 @@ const Test = () => {
         answer: newAnswerIndex,
       };
     });
-
-    return shuffledQuestions;
   }, []);
 
   useEffect(() => {
@@ -118,7 +116,7 @@ const Test = () => {
             </>
           ) : (
             <>
-              <h1 className="text-xl font-bold">{`Pregunta ${currentIndex} de ${numQuestions}`}</h1>
+              <h1 className="text-xl font-bold">{`Pregunta ${currentIndex + 1} de ${numQuestions}`}</h1>
               <QuestionCard
                 question={questions[currentIndex]?.question}
                 options={questions[currentIndex]?.options}
