@@ -16,9 +16,7 @@ def parse_questions(file_path):
         options = []
 
         for option in lines[1:]:
-            match = re.match(r'([a-dA-D])\)(.*)', option)
-            if match:
-                options.append(match.group(2).strip())
+            options.append(option.strip())
 
         questions.append({"question": question_text, "options": options})
 
