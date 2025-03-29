@@ -1,6 +1,21 @@
 @import "tailwindcss";
 
-:root {
+#root {
+  /* max-width: 1280px; */
+  /* margin: 0 auto; */
+  padding: 2rem;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: stretch;
+  width: 100vw;
+}
+
+button {
+  cursor: pointer;
+}
+
+/* :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
@@ -67,4 +82,4 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
-}
+} */
