@@ -130,7 +130,7 @@ const Test = () => {
   };
 
   return (
-    <div className="flex flex-col justify-start h-screen w-full">
+    <div className="flex flex-col justify-start h-full w-full">
       <Button
         variant={"secondary"}
         className="self-start justify-self-start"
