@@ -2,6 +2,7 @@ import React from "react";
 import { useEffect } from "react";
 import { useMemo } from "react";
 import { useState } from "react";
+import { Button } from "./ui/button";
 
 const QuestionCard = ({ question, options, selected, answer, onSelect }) => {
   const [preSelectedOption, setPreSelectedOption] = useState(null);
@@ -26,27 +27,28 @@ const QuestionCard = ({ question, options, selected, answer, onSelect }) => {
   }, [question]);
 
   return (
-    <div className="bg-white p-4 rounded-lg shadow-md">
+    <div className="bg-slate-200 p-4 rounded-lg shadow-lg flex flex-col gap-2">
       <h2 className="text-lg text-black font-bold">{question}</h2>
-      <div className="mt-2">
+      <div className="flex flex-col mt-2 gap-2">
         {options.map((option, index) => (
-          <button
+          <Button
             key={index}
             disabled={isSelected}
-            className={`block w-full text-left p-2 border rounded-md my-1 ${preSelectedOption === index && "bg-gray-300"} ${getOptionStyles(index)}`}
+            variant={"outline"}
+            className={`w-full h-fit whitespace-normal text-left p-2 ${preSelectedOption === index && "bg-blue-500 text-white"} ${getOptionStyles(index)}`}
             onClick={() => setPreSelectedOption(index)}
           >
             {option}
-          </button>
+          </Button>
         ))}
       </div>
-      <button
-        className="mt-4 bg-blue-500 text-white p-3 rounded-md"
+      <Button
+        className="bg-blue-900"
         disabled={preSelectedOption === null || isSelected}
         onClick={() => onSelect(preSelectedOption)}
       >
-        Seleccionar
-      </button>
+        Responder
+      </Button>
     </div>
   );
 };
