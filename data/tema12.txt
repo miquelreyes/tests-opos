@@ -135,6 +135,7 @@ a) SARA (Sistema de Aplicaciones y Redes para las Administraciones).
 b) TESTA (Trans European Services for Telematics between Administrations).
 c) Inter@dmin (Red Interadministrativa).
 d) El Esquema Nacional de Interoperabilidad no hace referencia a ninguna red concreta.
+
 24. Señale la respuesta incorrecta con relación a los aspectos temporales que intervienen en las comunicaciones de las administraciones públicas y de acuerdo con los aspectos de interoperabilidad:
 a) Los sistemas implicados en la provisión de un servicio público por vía electrónica deben sincronizarse con la hora oficial.
 b) Las aplicaciones implicadas en la provisión de un servicio público por vía electrónica deben llevar a cabo una sincronización principal y obligatoria con el servidor de custodia de tiempo que tiene implantada cada administración pública en el ámbito autonómico, y una sincronización secundaria y opcional con el Real Instituto y Observatorio de la Armada.

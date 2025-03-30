@@ -13,7 +13,7 @@ d) Se prohíbe que los órganos administrativos ejerzan su competencia de forma 
 3) De acuerdo con el art. 39.1 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, ¿desde cuando producen efectos los actos administrativos como regla general?
 a) Desde la fecha en que se dictan.
 b) Desde el día siguiente de la fecha en que se dictan.
-c) Desde la fecha de la notificación. 
+c) Desde la fecha de la notificación.
 d) Desde la fecha de la firmeza.
 
 4) Según el art. 40.2 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, las notificaciones deben ser cursadas:
@@ -28,7 +28,7 @@ b) Cualquier persona mayor de edad que se encuentre en el domicilio y haga const
 c) Cualquier persona mayor de dieciséis años que se encuentre en el domicilio y haga constar su identidad.
 d) Cualquier persona que se encuentre en el domicilio y haga constar su identidad.
 
-6) El art. 42.2 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, establece que: 
+6) El art. 42.2 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, establece que:
 a) El segundo intento de notificación deberá realizarse siempre después de las quince horas.
 b) El segundo intento de notificación deberá realizarse siempre antes de las quince horas.
 c) Se dejará un margen de diferencia de al menos doce horas entre ambos intentos de notificación.
@@ -39,18 +39,18 @@ a) Una vez transcurridos diez días desde el acceso a su contenido.
 b) Cuando hayan transcurrido tres días desde su puesta a disposición en la sede electrónica.
 c) En el momento en que se produzca el acceso a su contenido.
 d) En el momento en que la Administración la ponga a disposición en la sede electrónica.
-    
+
 8) En caso de notificación infructuosa, ¿cuál de los siguientes anuncios tiene carácter facultativo según el art. 44 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas?
 a) El anuncio en el «Boletín Oficial del Estado».
 b) El anuncio en el tablón de edictos del Ayuntamiento del último domicilio del interesado.
 c) El anuncio en el «Diario Oficial de la Unión Europea».
 d) El anuncio en el boletín oficial del Consulado o Sección Consular.
 
-9) Según el art. 45.1 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, ¿cuál de los siguientes actos administrativos deberá ser publicado? 
+9) Según el art. 45.1 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, ¿cuál de los siguientes actos administrativos deberá ser publicado?
 a) Un acto que tenga por destinatario a una pluralidad determinada de personas.
 b) La convocatoria de un procedimiento selectivo.
 c) Un acto que haya sido notificado por medios electrónicos.
-d) Todas las respuestas son correctas. 
+d) Todas las respuestas son correctas.
 
 10) Según el art. 47.1.b de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, ¿cuál de los siguientes actos administrativos es nulo de pleno derecho?
 a) El que se dicte por un órgano manifiestamente incompetente por razón del territorio.
@@ -93,7 +93,7 @@ a) Una vez transcurridos quince días desde que fueron adoptadas.
 b) Cuando surta efectos la resolución administrativa que ponga fin al procedimiento correspondiente.
 c) Cuando el interesado presente un recurso contra las medidas provisionales.
 d) Todas las respuestas son correctas.
-    
+
 17) Según el art. 57 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, el órgano administrativo que inicie o tramite un procedimiento puede disponer su acumulación a otros:
 a) Con los que guarde identidad sustancial o íntima conexión, siempre que sea el mismo órgano quien deba tramitar y resolver el procedimiento.
 b) Para la determinación, conocimiento y comprobación de los hechos en virtud de los cuales deba pronunciarse la resolución.
@@ -117,32 +117,32 @@ a) Procedimiento administrativo.
 b) Declaración responsable.
 c) Expediente administrativo.
 d) Actos de instrucción.
-        
+
 21) Indique cuál de las afirmaciones siguientes es correcta según el art. 71.3 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas:
 a) El procedimiento se impulsará de oficio o a instancia de parte.
 b) En el despacho de los expedientes se guardará siempre un orden riguroso de incoación.
 c) El órgano instructor será responsable del cumplimiento de los plazos establecidos.
 d) El instructor y los interesados serán responsables directos de la tramitación del procedimiento.
-    
+
 22) Según el art. 74 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, las cuestiones incidentales que se susciten en el procedimiento, incluso las que se refieran a la nulidad de actuaciones:
 a) No suspenderán la tramitación del procedimiento, salvo la recusación.
 b) Suspenderán la tramitación del procedimiento.
 c) Podrán suspender la tramitación del procedimiento.
 d) Interrumpirán el plazo de prescripción de la acción.
-    
+
 23) Según el art. 76.1 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, los interesados podrán aducir alegaciones y aportar documentos u otros elementos de juicio:
 a) En cualquier momento del procedimiento.
 b) En cualquier momento del procedimiento anterior a la propuesta de resolución.
 c) En cualquier momento del procedimiento anterior al trámite de audiencia.
 d) En cualquier momento del procedimiento anterior a la resolución.
-    
+
 24) Según el art. 76.2 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, los interesados podrán alegar los defectos de tramitación:
 a)  En todo momento.
 b) En cualquier momento del procedimiento anterior a la propuesta de resolución.
 c) En cualquier momento del procedimiento anterior al trámite de audiencia.
-d) En cualquier momento del procedimiento anterior a la fase de prueba.       
+d) En cualquier momento del procedimiento anterior a la fase de prueba.      
 
-25) Según el art. 77.1 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, los hechos relevantes para la decisión de un procedimiento podrán acreditarse: 
+25) Según el art. 77.1 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, los hechos relevantes para la decisión de un procedimiento podrán acreditarse:
 a) Por cualquier medio de prueba.
 b) Por cualquier medio de prueba admisible en Derecho.
 c) Por cualquier medio de prueba admitido por la Ley de Enjuiciamiento Civil.
@@ -166,7 +166,7 @@ b) Facultativo.
 c) Facultativo y no vinculante.
 d) Preceptivo y vinculante.
 
-29) Según el art. 80.1 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, salvo disposición expresa en contrario, los informes serán: 
+29) Según el art. 80.1 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, salvo disposición expresa en contrario, los informes serán:
 a) Facultativos y no vinculantes.
 b) Preceptivos.
 c) Preceptivos y no vinculantes.
@@ -177,25 +177,25 @@ a) Inmediatamente antes de la fase de prueba.
 b) Inmediatamente antes de la resolución.
 c) Inmediatamente antes del trámite de información pública.
 d) Inmediatamente antes de redactar la propuesta de resolución.
-    
-31) Según el art. 82.2 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, el plazo para presentar alegaciones dentro del trámite de audiencia será: 
+
+31) Según el art. 82.2 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, el plazo para presentar alegaciones dentro del trámite de audiencia será:
 a) No inferior a diez días.
 b) Superior a diez días e inferior a quince.
 c) No inferior a diez días ni superior a quince.
 d) No superior a treinta días ni inferior a diez.
-    
+
 32) Según el art. 83.3 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, la comparecencia en el trámite de información pública:
 a) Impedirá a los interesados interponer los recursos procedentes contra la resolución provisional del procedimiento.
-b) No otorga, por sí misma, la condición de interesado. 
+b) No otorga, por sí misma, la condición de interesado.
 c) No impedirá a los interesados interponer los recursos procedentes contra la resolución provisional del procedimiento.
 d) Otorga la condición de interesado en el procedimiento.
 
 33) Según el art. 84.1 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, es una forma de terminación del procedimiento:
-a) La continuación por causas sobrevenidas. 
+a) La continuación por causas sobrevenidas.
 b) La renuncia al derecho en que se funde la solicitud.
 c) El desistimiento al derecho en que se funde la solicitud.
 d) La declaración de la prescripción.
-        
+
 34) Según el art. 87 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, el plazo para formular alegaciones al acuerdo de realización de actuaciones complementarias será:
 a) No superior a quince días.
 b) No inferior a siete días.
@@ -207,31 +207,31 @@ a) En los procedimientos tramitados a solicitud del interesado.
 b) En los procedimientos iniciados de oficio.
 c) En todos los procedimientos.
 d) En los procedimientos sancionadores.
-        
-36) Según el art. 93 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, en los procedimientos iniciados de oficio: 
+
+36) Según el art. 93 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, en los procedimientos iniciados de oficio:
 a) La Administración no podrá desistir.
 b) Los interesados y la Administración podrán desistir.
 c) La Administración podrá desistir.
 d) Los interesados podrán desistir.
-    
+
 37) Según el art. 95.3 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas:
 a) Los procedimientos prescritos no interrumpirán el plazo de caducidad.
 b) Los procedimientos caducados interrumpirán el plazo de prescripción.
-c) Los procedimientos prescritos interrumpirán el plazo de caducidad. 
+c) Los procedimientos prescritos interrumpirán el plazo de caducidad.
 d) Los procedimientos caducados no interrumpirán el plazo de prescripción.
-    
+
 38) Según el art. 96.1 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, el procedimiento de tramitación simplificada se podrá acordar:
 a) De oficio.
 b) A solicitud del interesado.
 c) De oficio o a solicitud del interesado.
 d) De oficio con audiencia a los interesados.
-    
+
 39) Según el art. 96.6 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, el plazo para presentar alegaciones en los procedimientos de tramitación simplificada es:
 a) De cinco días.
 b) No inferior a cinco días.
 c) De diez días.
 d) No inferior a diez días.
-    
+
 40) ¿Cuál de los siguientes medios de pago no se cita expresamente en el art. 98.2 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas?
 a) Tarjeta de crédito y débito.
 b) Transferencia bancaria.
@@ -284,12 +284,12 @@ d) Dependiente de las sanciones que puedan imponerse con tal carácter e incompa
 a) Orden.
 b) Resolución.
 c) Decreto.
-d) Acuerdo. 
+d) Acuerdo.
 
 49) Según el art. 42 de la Ley 3/2003, de 26 de marzo, de régimen jurídico de la administración de la Comunidad Autónoma de las Illes Balears, adoptan la forma de resolución:
 a) Los actos dictados por el presidente.
 b) Los actos dictados por el presidente y por el vicepresidente.
-c) Los actos dictados por el vicepresidente y por los consejeros. 
+c) Los actos dictados por el vicepresidente y por los consejeros.
 d) Los actos dictados por el presidente, por el vicepresidente y por los consejeros.
 
 50) Según el art. 50 de la Ley 3/2003, de 26 de marzo, de régimen jurídico de la administración de la Comunidad Autónoma de las Illes Balears, ¿cuál es el plazo para resolver los procedimientos que sean competencia de la comunidad autónoma?
@@ -297,4 +297,3 @@ a) El que fije la norma reguladora del procedimiento correspondiente, y en su de
 b) Seis meses.
 c) El que fije la norma reguladora del procedimiento correspondiente, y en su defecto, el plazo será de un año.
 d) Tres meses.
-

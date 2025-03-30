@@ -40,10 +40,43 @@ def map_answers_to_questions(questions, answers, start_index):
         })
     return mapped_questions
 
+def validate_data(data):
+    """Validates that the data contains 15 topics with 50 questions each having 4 options."""
+    expected_topics = 15
+    expected_questions_per_topic = 50
+    expected_options_per_question = 4
+    
+    errors = []
+    
+    # Check number of topics
+    actual_topics = len(data)
+    if actual_topics != expected_topics:
+        errors.append(f"Expected {expected_topics} topics, but found {actual_topics}")
+    
+    # Check each topic
+    for topic_name, questions in data.items():
+        # Check number of questions
+        actual_questions = len(questions)
+        if actual_questions != expected_questions_per_topic:
+            errors.append(f"Topic {topic_name}: Expected {expected_questions_per_topic} questions, but found {actual_questions}")
+        
+        # Check each question
+        for i, question in enumerate(questions):
+            # Check number of options
+            actual_options = len(question["options"])
+            if actual_options != expected_options_per_question:
+                errors.append(f"Topic {topic_name}, Question {i+1}: Expected {expected_options_per_question} options, but found {actual_options}")
+            
+            # Check if answer is valid
+            # if question["answer"] < 0 or question["answer"] >= expected_options_per_question:
+            #     errors.append(f"Topic {topic_name}, Question {i+1}: Invalid answer index {question['answer']}")
+    
+    return errors
+
 def main():
     topics_count = 15
     answers = parse_answers('respuestas.txt')
-    
+   
     all_topics = {}
     answer_index = 0  # Track the position in the answer list
 
@@ -55,8 +88,21 @@ def main():
             all_topics[f"tema{i}"] = mapped_questions
             answer_index += len(questions)  # Move answer index forward
 
-    with open('data.json', 'w', encoding='utf-8') as f:
-        json.dump(all_topics, f, indent=4, ensure_ascii=False)
+    # Validate the data
+    validation_errors = validate_data(all_topics)
+    
+    if validation_errors:
+        print("Validation failed with the following errors:")
+        for error in validation_errors:
+            print(f"- {error}")
+        print("Data not saved. Please fix the errors and try again.")
+        sys.exit(1)
+    else:
+        print("Validation successful: 15 topics with 50 questions each and 4 options per question.")
+        
+        with open('data.json', 'w', encoding='utf-8') as f:
+            json.dump(all_topics, f, indent=4, ensure_ascii=False)
+        print("Data successfully saved to data.json")
 
 if __name__ == "__main__":
     main()

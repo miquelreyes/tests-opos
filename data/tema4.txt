@@ -13,17 +13,17 @@ d)Comunidad Autónoma de las Islas Baleáricas.
 3.Según el artículo 2 del Estatuto de autonomía de las Illes Balears, la comunidad autónoma está formada por el territorio:
 a)De las islas de Mallorca, Menorca, Ibiza y Formentera.
 b)De las islas de Mallorca, Menorca, Ibiza, Formentera y Cabrera.
-c)De las islas de Mallorca, Menorca, Ibiza, Formentera y por el de las otras islas menores adyacentes. 
+c)De las islas de Mallorca, Menorca, Ibiza, Formentera y por el de las otras islas menores adyacentes.
 d)De las islas de Mallorca, Menorca, Ibiza, Formentera y Cabrera y por el de las otras islas menores adyacentes.
 
 4.Según el artículo 6 del Estatuto de autonomía de las Illes Balears, sobre los símbolos de las iIles Balears:
 a)Únicamente hay una bandera para todas las islas.
 b)Cada isla puede tener su bandera.
-c)Únicamente tienen bandera propia Mallorca e Ibiza. 
+c)Únicamente tienen bandera propia Mallorca e Ibiza.
 d)Únicamente tienen bandera propia Mallorca y Menorca.
 
 5.Según el artículo 6 del Estatuto de autonomía de las Illes Balears, la bandera de las Islas Baleares está constituida por:
-a)Cuatro barras rojas horizontales sobre fondo amarillo, con un cuartel situado en la parte superior izquierda de fondo morado y con un castillo blanco de cinco torres en medio. 
+a)Cuatro barras rojas horizontales sobre fondo amarillo, con un cuartel situado en la parte superior izquierda de fondo morado y con un castillo blanco de cinco torres en medio.
 b)Cinco barras rojas horizontales sobre fondo amarillo, con un cuartel situado en la parte superior izquierda de fondo morado y con un castillo blanco de cinco torres en medio.
 c)Cuatro barras rojas horizontales sobre fondo amarillo, con un castillo blanco situado en la parte superior izquierda de fondo morado y con un cuartel de cinco torres en medio.
 d)Cinco barras rojas horizontales sobre fondo amarillo, con un castillo blanco situado en la parte superior izquierda de fondo morado y con un cuartel de cinco torres en medio.
@@ -44,7 +44,7 @@ d)Las respuestas a) y c) son correctas.
 a)La Declaración de Derechos Humanos.
 b)La Constitución española.
 c)La Carta de Derechos Sociales de la Comunidad Autónoma de las Illes Balears.
-d)Los convenios internacionales sobre derechos civiles y humanos. 
+d)Los convenios internacionales sobre derechos civiles y humanos.
 
 9.Según el artículo 24 del Estatuto de autonomía de las Illes Balears, ¿cuál es el elemento económico estratégico de las Illes Balears reconocido por los poderes públicos de la comunidad autónoma?
 a)La actividad industrial.
@@ -58,7 +58,7 @@ b)Un sistema sanitario universal de carácter público.
 c)Un sistema sanitario público de carácter universal.
 d)Un sistema sanitario público i privado de carácter universal.
 
-11.Según el artículo 26 del Estatuto de autonomía de las Illes Balears, sobre la educación: 
+11.Según el artículo 26 del Estatuto de autonomía de las Illes Balears, sobre la educación:
 a)Se garantiza la gratuidad de la enseñanza en todos los niveles educativos.
 b)Se garantiza la gratuidad de la enseñanza en todos los niveles obligatorios.
 c)Se garantiza la gratuidad de la enseñanza en todos los niveles educativos, excepto en los centros educativos sostenidos con fondos públicos.
@@ -83,7 +83,7 @@ c)Legislación laboral.
 d)Las respuestas a) y b) son correctas.
 
 15.Según el artículo 30 del Estatuto de autonomía de las Illes Balears, la Comunidad Autónoma de las Illes Balears tiene la competencia exclusiva en:
-a)Alteraciones de los términos municipales y denominación oficial de los municipios y topónimos. 
+a)Alteraciones de los términos municipales y denominación oficial de los municipios y topónimos.
 b)Propiedad industrial.
 c)Salvamento marítimo.
 d)Ferias internacionales.
@@ -102,7 +102,7 @@ d)Salvamento marítimo.
 
 18.Según el artículo 31 del Estatuto de autonomía de las Illes Balears, la Comunidad Autónoma de las Illes Balears tiene la competencia de desarrollo legislativo y ejecución en:
 a)Régimen Local.
-b)Pesos y medidas. 
+b)Pesos y medidas.
 c)Políticas de género.
 d)Protección de menores.
 
@@ -130,19 +130,19 @@ b)Expropiación forzosa.
 c)Ordenación del sector pesquero.
 d)Espectáculos y actividades recreativas.
 
-23.Según el artículo 32 del Estatuto de autonomía de las Illes Balears, la Comunidad Autónoma de las Illes Balears tiene la competencia ejecutiva en: 
+23.Según el artículo 32 del Estatuto de autonomía de las Illes Balears, la Comunidad Autónoma de las Illes Balears tiene la competencia ejecutiva en:
 a)Bienes de dominio público y patrimoniales de su titularidad.
 b)Propiedad industrial.
 c)Salvamento marítimo.
 d)Las respuestas b) y c) son correctos.
 
 24.Según el artículo 32 del Estatuto de autonomía de las Illes Balears, la Comunidad Autónoma de las Illes Balears tiene la competencia ejecutiva en:
-a)Emergencias. 
+a)Emergencias.
 b)Ferias y mercados no internacionales.
 c)Crédito, banca y seguros.
 d)Tercera edad.
 
-25.Según el artículo 35 del Estatuto de autonomía de las Illes Balears, ¿cuál es la institución oficial consultiva para todo el que se refiere a la lengua catalana? 
+25.Según el artículo 35 del Estatuto de autonomía de las Illes Balears, ¿cuál es la institución oficial consultiva para todo el que se refiere a la lengua catalana?
 a)La consejería competente en materia de cultura.
 b)La Universidad de las Illes Balears.
 c)La dirección general competente en materia lingüística.
@@ -192,8 +192,8 @@ d)Siete meses al año.
 
 33.Según el artículo 46 del Estatuto de autonomía de las Illes Balears, la Diputación Permanente tiene por función velar por el poder del Parlamento cuando:
 a)Este no esté reunido.
-b)Este haya sido disuelto. 
-c)Este haya expirado el mandato. 
+b)Este haya sido disuelto.
+c)Este haya expirado el mandato.
 d)Las respuestas a) b) y c) son correctas.
 
 34.Según el artículo 48 del Estatuto de autonomía de las Illes Balears, ¿qué órgano ejerce la potestad legislativa?
@@ -227,7 +227,7 @@ c)El presidente del Parlamento.
 d)El Parlamento.
 
 39.Según el artículo 57 del Estatuto de autonomía de las Illes Balears, el Gobierno está formado:
-a)Por el presidente, un vicepresidente y los consejeros. 
+a)Por el presidente, un vicepresidente y los consejeros.
 b)Por el presidente y los consejeros.
 c)Por el presidente, los vicepresidentes, si es el caso, y los consejeros.
 d)Por el presidente y los diputados.
@@ -247,7 +247,7 @@ d)Las respuestas b) y c) son correctas.
 42.Según el artículo 76 del Estatuto de autonomía de las Illes Balears, ¿por cuántos juristas de prestigio reconocido estará integrado como máximo el Consejo consultivo de las Illes Balears?
 a)Por diez juristas.
 b)Por nueve juristas.
-c)Por ocho juristas. 
+c)Por ocho juristas.
 d)Por siete juristas.
 
 43.Según el artículo 78 del Estatuto de autonomía de las Illes Balears, ¿cuál es el órgano colegiado de participación, estudios, deliberación, asesoramiento y propuesta en materia económica y social?

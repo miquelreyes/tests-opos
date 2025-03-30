@@ -9,19 +9,19 @@ a) La ley, la costumbre y los principios generales del Derecho.
 b) La Constitución.
 c) La ley, la jurisprudencia del Tribunal Supremo, la costumbre y los principios generales del derecho.
 d) Las mismas que se citan como fuentes materiales, es decir, el Parlamento y el Gobierno, entre otras.
- 
+
 3. No se considera en el Código Civil como fuente del Derecho:
 a) La costumbre.
 b) Los principios generales del Derecho.
 c) La doctrina científica.
 d) La ley.
- 
+
 4. Desde el punto de vista del ordenamiento jurídico español, la Constitución de 1978 es:
 a) La ley suprema.
 b) Una de las leyes más importantes.
 c) La segunda ley, después de los Estatutos de Autonomía.
 d) No forma parte del grupo de fuentes.
- 
+
 5. Al no existir una teoría especial sobre la jerarquía de fuentes del Derecho administrativo, se aplican, por extensión, las que con carácter general se recogen en:
 a) La Constitución.
 b) La jurisprudencia del Tribunal Supremo.
@@ -39,7 +39,7 @@ a) Ley y jurisprudencia.
 b) Jurisprudencia y costumbre.
 c) Ley y costumbre.
 d) Todas las respuestas anteriores son correctas.
-     
+
 8. La aprobación de un proyecto de ley corresponde:
 a) Al Gobierno.
 b) Al Presidente del Gobierno.
@@ -75,7 +75,7 @@ a) Estatales.
 b) Autonómicos.
 c) Discrecionales.
 d) Institucionales.
- 
+
 14.  Los Reglamentos estatales no pueden exteriorizarse mediante:
 a) Un Decreto legislativo.
 b) Órdenes ministeriales.
@@ -99,7 +99,7 @@ a) Proyecto de ley.
 b) Ley orgánica.
 c) Proposición de ley por la vía de urgencia.
 d) Proyecto de ley por la vía de urgencia.
- 
+
 18.  Las disposiciones del Ejecutivo que desarrollan una ley deben aprobarse:
 a) Por el presidente del Gobierno.
 b) Por el Consejo de ministros.
@@ -135,7 +135,7 @@ a) A las Cortes Generales.
 b) Al Congreso de los Diputados.
 c) Al Senado.
 d) Todas las respuestas son incorrectas.
- 
+
 24.  Las leyes entran en vigor, si no disponen lo contrario:
 a) A los diez días de su completa publicación en el Boletín Oficial del Estado.
 b) A los quince días de su completa publicación en el Boletín Oficial del Estado.
@@ -147,7 +147,7 @@ a) En  materias tributarias.
 b) En materias de carácter internacional.
 c) En materias relativas a prerrogativa de gracia.
 d) En materias relacionadas con las comunidades de vecinos.
- 
+
 26.  ¿Cuál de los siguientes requisitos debe cumplirse en la tramitación de proposiciones de ley?:
 a) Deben ser remitidas exclusivamente a la Mesa del Congreso.
 b) Deben remitirse al Gobierno para dar su aprobación antes de ser tramitadas en algunos casos.
@@ -161,11 +161,11 @@ c) Que solamente tienen efecto retroactivo cuando lo establezca su contenido.
 d) Que solamente tienen efecto irretroactivo cuando lo establezca su contenido.
 
 28.  El Senado, para oponer un veto a una proposición de ley aprobada en el Congreso de los Diputados, necesita:
-a) Mayoría simple.  
+a) Mayoría simple. 
 b) Mayoría absoluta.
 c) Mayoría de dos tercios.
 d) Mayoría de tres quintos.
- 
+
 29.  Para sancionar las leyes, el Rey dispone de un plazo de:
 a) Treinta días
 b) Veinte días.
@@ -218,13 +218,13 @@ d) Decretos.
 a) La mayoría simple en el Congreso de los Diputados y la mayoría absoluta en el Senado..
 b) La mayoría simple tanto en el Congreso de los Diputados como en el Senado.
 c) La mayoría absoluta en el Congreso de los Diputados y la mayoría simple en el Senado.
-d)  La mayoría absoluta tanto en el Congreso de los Diputados como en el Senado.
+d) La mayoría absoluta tanto en el Congreso de los Diputados como en el Senado.
 
 38. Las leyes dictadas por las Asambleas Legislativas de las Comunidades Autónomas se publican siempre:
 a) En el Boletín Oficial del Estado y en el Boletín Oficial de la Comunidad Autónoma donde ha sido aprobada la ley.
 b) En el Boletín Oficial del Estado, únicamente.
 c) En el Boletín Oficial de cada Comunidad Autónoma.
-d)  En el Diario de la Unión Europea.
+d) En el Diario de la Unión Europea.
 
 39.  Para ejercer la iniciativa legislativa popular se necesitan necesariamente:
 a) No menos de 500.000 firmas.
@@ -237,7 +237,7 @@ a) Tienen el mismo rango jerárquico que las aprobadas por las Cortes Generales.
 b) Tienen superior rango jerárquico que las aprobadas por las Cortes Generales.
 c) Tienen inferior rango jerárquico que las aprobadas por las Cortes Generales.
 d) Tienen el mismo rango jerárquico si las aprobadas por las Cortes Generales son anteriores.
- 
+
 41.  La relación entre las leyes emanadas de las Cortes Generales y las de las Asambleas Legislativas de las Comunidades Autónomas se articulan en virtud del principio de:
 a) Jerarquía.
 b) Unidad.
@@ -267,7 +267,7 @@ a) El régimen de las comunidades autónomas.
 b) El derecho electoral general.
 c) Las materias objeto de ley ordinaria.
 d) Los derechos y deberes de los ciudadanos regulados en el Título I de la Constitución.
- 
+
 46.  Las disposiciones emanadas del Presidente del Gobierno tienen el siguiente rango:
 a) Superior a un Real Decreto del Consejo de Ministros.
 b) Inferior a un Real Decreto del Consejo de Ministros.

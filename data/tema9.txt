@@ -297,5 +297,3 @@ a) El complemento de horarios especiales.
 b) El complemento de dedicación especial.
 c) El complemento de dificultad técnica.
 d) El complemento de responsabilidad.
-
-

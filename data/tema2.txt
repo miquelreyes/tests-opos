@@ -131,7 +131,7 @@ c)La legislación sobre propiedad industrial.
 d)Las respuestas a) y c) son correctas.
 
 23.Según el artículo 148 de la Constitución española, las comunidades autónomas pueden asumir competencias en:
-a)La hacienda general y la deuda del Estado. 
+a)La hacienda general y la deuda del Estado.
 b)La marina mercante.
 c)Las ferias interiores.
 d)El régimen aduanero y arancelario.
@@ -178,7 +178,7 @@ b)El Tribunal Superior de Justicia de la comunidad autónoma respectiva.
 c)El Tribunal Constitucional.
 d)La Audiencia Provincial.
 
-31.Según el artículo 153 de la Constitución española, ¿quién ejercerá el control jurisdiccional en aquello que se refiere a la administración autónoma y a sus normas reglamentarias? 
+31.Según el artículo 153 de la Constitución española, ¿quién ejercerá el control jurisdiccional en aquello que se refiere a la administración autónoma y a sus normas reglamentarias?
 a)La jurisdicción contenciosa administrativa.
 b)La jurisdicción civil.
 c)La jurisdicción penal.
@@ -206,7 +206,7 @@ d)De suficiencia presupuestaria.
 a)Impuestos cedidos total o parcialmente por el Estado.
 b)Rendimientos procedentes del su patrimonio y del patrimonio estatal.
 c)El producto de operaciones de débito.
-d)Las respuestas a) y b) son correctas. 
+d)Las respuestas a) y b) son correctas.
 
 36.Según el artículo 157 de la Constitución española, los recursos de las comunidades autónomas estarán constituidos, entre otros:
 a)Por sus propios impuestos, tasas y contribuciones especiales.
@@ -220,22 +220,22 @@ b)Una ley orgánica.
 c)Un decreto de transferencias.
 d)Un convenio regulador de transferencias.
 
-38.Según el artículo 158 de la Constitución española, ¿dónde se puede establecer una asignación a las comunidades autónomas en función del volumen de los servicios y de las actividades estatales que hayan asumido? 
+38.Según el artículo 158 de la Constitución española, ¿dónde se puede establecer una asignación a las comunidades autónomas en función del volumen de los servicios y de las actividades estatales que hayan asumido?
 a)En los presupuestos generales del Estado.
 b)En los presupuestos generales de la comunidad autónoma.
 c)En la ley ordinaria de transferencias.
 d)Las respuestas a) b) y c) son correctas.
 
 39.Según el artículo 158 de la Constitución española, para hacer efectivo el principio de solidaridad y por tal de corregir desequilibrios económicos interterritoriales el Estado constituirá:
-a)Una partida presupuestaria en los Presupuestos Generales del Estado. 
-b)Una asignación anual de fondo de compensación. 
-c)Un fondo de compensación destinado a gastos de inversión. 
-d)Las respuestas a) y b) son correctas.  
+a)Una partida presupuestaria en los Presupuestos Generales del Estado.
+b)Una asignación anual de fondo de compensación.
+c)Un fondo de compensación destinado a gastos de inversión.
+d)Las respuestas a) y b) son correctas. 
 
 40.Según el artículo 158 de la Constitución española, ¿quien  se encarga de distribuir los recursos del fondo de compensación interterritorial entre las comunidades autónomas y las provincias, en su caso?
 a)La asamblea legislativa de la comunidad autónoma respectiva.
 b)Las Cortes Generales.
-c)El ministerio competente en materia presupuestaria. 
+c)El ministerio competente en materia presupuestaria.
 d)La consejería competente en materia presupuestaria.
 
 41.Según el artículo 138 de la Constitución española, sobre la organización territorial, el Estado garantiza la realización efectiva del principio:
@@ -246,7 +246,7 @@ d)De equilibrio.
 
 42.Según el artículo 139 de la Constitución española, en cualquier parte del territorio del Estado, todos los españoles tienen:
 a)Los mismos derechos y diferentes obligaciones.
-b)Los mismos derechos. 
+b)Los mismos derechos.
 c)Las mismas obligaciones.
 d)Las respuestas b) y c) son correctas.
 
@@ -265,7 +265,7 @@ d)Como normativa básica de su ordenamiento jurídico.
 45.Según el artículo 149 de la Constitución española, la competencia en materia de defensa y fuerzas armadas:
 a)Es una competencia exclusiva del Estado.
 b)Es una competencia exclusiva de la comunidad autónoma.
-c)Es una competencia de desarrollo legislativo y de ejecución  autonómica. 
+c)Es una competencia de desarrollo legislativo y de ejecución  autonómica.
 d)Es una competencia compartida del Estado.
 
 46.Según el artículo 149 de la Constitución española, la competencia en relaciones internacionales:
@@ -297,5 +297,3 @@ a)La gestión en materia de protección del medio ambiente.
 b)La hacienda general y la deuda del Estado.
 c)La Administración de justicia.
 d)Las bases del régimen minero y energético.
-
-

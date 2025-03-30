@@ -28,7 +28,8 @@ b) La mayoría de dos tercios de los presentes en la votación.
 c) La mayoría simple de los componentes del Parlamento.
 d) La mayoría de tres quintas partes de los componentes del Parlamento.
 
-6. ¿Cuál de estas funciones corresponde al Parlamento de las Illes Balears?a) Designar el senador o los senadores que deben representar a la comunidad autónoma de las Illes Balears en el Senado.
+6. ¿Cuál de estas funciones corresponde al Parlamento de las Illes Balears?
+a) Designar el senador o los senadores que deben representar a la comunidad autónoma de las Illes Balears en el Senado.
 b) Dictar decretos ley.
 c) Deliberar sobre la decisión del presidente de disolver de forma anticipada el Parlamento.
 d) Proponer transferencias o delegaciones de competencias a favor de los consejos insulares y de otros entes locales de la comunidad autónoma.
@@ -116,6 +117,7 @@ a) Ejerce la potestad ejecutiva.
 b) Representa al pueblo de las Illes Balears.
 c) Controla la acción de gobierno.
 d) Aprueba los presupuestos de la Comunidad Autónoma.
+
 21. En el Parlamento de las Illes Balears, la sesión solemne de apertura de la legislatura tendrá lugar dentro del plazo de los:
 a) Quince días hábiles siguientes al de la celebración de la sesión constitutiva.
 b) Tres meses siguientes al de la celebración de las elecciones.
@@ -135,7 +137,6 @@ c) En la sesión constitutiva de la Diputación Permanente.
 d) Cuando así lo decida el presidente del Parlamento de las Illes Balears.
 
 24. La duración del mandato de los diputados del Parlamento de las Illes Balears es:
- 
 a) De cuatro años.
 b) De seis años.
 c) De cinco años.
@@ -149,33 +150,29 @@ d) De dos meses después de la celebración de las elecciones.
 
 26. En las elecciones al Parlamento de las Illes Balears, serán electores:
 a) Todos los ciudadanos españoles mayores de edad que figuren en el censo electoral de las Illes Balears.
-b) Todos los ciudadanos europeos mayores de edad que figuren en el censo electoral de las Illes Balears. 
+b) Todos los ciudadanos europeos mayores de edad que figuren en el censo electoral de las Illes Balears.
 c) Todos los ciudadanos españoles mayores de edad que estén empadronados en las Illes Balears.
 d) Todos los ciudadanos españoles mayores de dieciséis años que figuren en el censo electoral de las Illes Balears.
 
 27. La Junta de Portavoces del Parlamento de las Illes Balears se reúne bajo la dirección:
- 
 a) Del presidente del Parlamento.
 b) Del portavoz del grupo parlamentario mayoritario.
 c) Del vicepresidente primero de la Mesa.
 d) Del letrado mayor del Parlamento.
 
 28. El día y la hora señalados en la resolución de convocatoria de la sesión constitutiva del Parlamento de las Illes Balears, los diputados electos, se constituyen:
- 
 a) En asamblea.
 b) En conferencia.
 c) En Junta.
 d) En Convención.
 
 29. Inicialmente, la sesión constitutiva del Parlamento de las Illes Balears la preside:
- 
 a) De entre los presentes, el diputado o la diputada electos de mayor edad.
 b) El diputado o diputada electo más antiguo en el cargo.
 c) El diputado o diputada electo de menor edad.
 d) El Oficial mayor del Parlamento.
 
 30. Indique la respuesta incorrecta. Corresponde al Parlamento de las Illes Balears:
- 
 a) Determinar, en aplicación del criterio de representación mayoritario, el senador o los senadores que deben representar a la comunidad autónoma de las Illes Balears en el Senado.
 b) Solicitar al Gobierno la adopción de un proyecto de ley.
 c) Fijar las previsiones de orden político, social y económico que deban adoptarse para la elaboración de proyectos de planificación.
@@ -188,21 +185,18 @@ c) Al final de cada período de sesiones, la Mesa del Parlamento publicará en e
 d) Al final de cada legislatura, la Mesa del Parlamento publicará en el Boletín Oficial del Parlamento de las Illes Balears y en el Portal de Transparencia, la asistencia de los diputados y las diputadas a las sesiones del Pleno y de las comisiones de que formen parte.
 
 32. Indique la respuesta incorrecta respecto de los diputados y diputadas del Parlamento de las Illes Balears:
- 
 a) Tienen la obligación de formar parte, al menos, de una comisión.
 b) Deberán observar en todo momento las normas sobre incompatibilidades establecidas en la Constitución, en el Estatuto y en las leyes.
 c) Tienen derecho a formar parte, al menos, de una comisión.
 d) Tienen derecho al tratamiento de señor y señora.
 
 33. La Sindicatura de Greuges de las Illes Balears debe crearse mediante:
- 
 a) Una ley del Parlamento.
 b) Un acuerdo del Consejo de Gobierno.
 c) Un decreto del presidente o la presidenta de las Illes Balears.
 d) Un acuerdo de la Mesa del Parlamento.
 
 34. Indique la respuesta incorrecta. El Parlamento de las Illes Balears elige:
- 
 a) Todos los miembros del Consejo Consultivo.
 b) Los síndicos de la Sindicatura de Cuentas.
 c) Cuatro miembros del Consejo Consultivo.
@@ -219,7 +213,7 @@ a) Por tres diputados.
 b) Por dos diputados.
 c) Por cuatro diputados.
 d) Por un diputado.
- 
+
 37. El presidente o la presidenta del Parlamento de las Illes Balears tiene el tratamiento de:
 a) Señor o señora.
 b) Honorable.
@@ -239,7 +233,6 @@ c) Aprobar las plantillas del personal del Parlamento.
 d) Calificar los escritos de carácter parlamentario y declarar su admisibilidad o inadmisibilidad.
 
 40. En el Parlamento de las Illes Balears, las decisiones de la Junta de Portavoces se adoptarán:
- 
 a) En función del criterio del voto ponderado.
 b) Por mayoría simple de sus miembros.
 c) Por mayoría absoluta de sus miembros.
@@ -270,7 +263,6 @@ c) Dentro de los diez días siguientes a la solemne sesión de apertura de la le
 d) Dentro de los quince días siguientes a la sesión constitutiva del Parlamento.
 
 45. En el Parlamento de las Illes Balears, En caso de ausencia del secretario o secretaria de una comisión, éste o ésta será sustituido o sustituida perseguirá sustituido:
- 
 a) Por un miembro de la comisión del mismo grupo político.
 b) Por el vicepresidente de la comisión.
 c) Por el diputado de mayor edad entre los miembros de la comisión.

@@ -64,14 +64,14 @@ b)Exactos y, solo en determinados casos, actualizados.
 c)Exactos y, en ningún caso, actualizados.
 d)Exactos y, si fuere necesario, actualizados.
 
-12.De acuerdo con el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, Reglamento general de protección de datos, el principio de integridad y confidencialidad en el tratamiento de datos supone que los datos personales serán: 
+12.De acuerdo con el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, Reglamento general de protección de datos, el principio de integridad y confidencialidad en el tratamiento de datos supone que los datos personales serán:
 a)Adecuados, pertinentes y limitados a lo necesario en relación con los fines para los que son tratados.
 b)Tratados de tal manera que se garantice una seguridad adecuada de los datos personales, incluida la protección contra el tratamiento no autorizado o ilícito y contra su pérdida, destrucción o daño accidental.
 c)Recogidos con fines determinados, explícitos y legítimos, y no serán tratados ulteriormente de manera incompatible con dichos fines.
 d)Tratados de manera lícita, leal y transparente en relación con el interesado.
 
 13.De acuerdo con el artículo 32 de la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales, dentro del ámbito de sus respectivas competencias, podrán fijar excepciones a la obligación de bloqueo establecida en este artículo:
-a)Los delegados de protección de datos.  
+a)Los delegados de protección de datos. 
 b)La Agencia Española de Protección de Datos exclusivamente.
 c)Los Estados Miembros de la Unión.
 d)La Agencia Española de Protección de Datos y las autoridades autonómicas de protección de datos.
@@ -133,7 +133,7 @@ d)menor de dieciséis años.
 23.De acuerdo con la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales, entre otras exigencias ¿Que implica el derecho de acceso universal a Internet?
 a)Los trabajadores y los empleados públicos tendrán derecho a la protección de su intimidad en el uso de los dispositivos digitales.
 b)Los proveedores de servicios de Internet proporcionarán una oferta transparente de servicios sin discriminación por motivos técnicos o económicos.
-c)Se garantizará un acceso universal, asequible, de calidad y no discriminatorio para toda la población. 
+c)Se garantizará un acceso universal, asequible, de calidad y no discriminatorio para toda la población.
 d)Todos tienen derecho a la libertad de expresión en Internet.
 
 24.De acuerdo con la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales, ¿qué implica el derecho a la seguridad digital?
@@ -194,7 +194,7 @@ d)en el plazo de quince días.
 a)No será posible retirar el consentimiento.
 b)Retirar el consentimiento puede ser mas difícil que darlo.
 c)Se podrá retirar el consentimiento cuando se haya realizado el tratamiento inicial de los datos personales.
-d)Será tan fácil retirar el consentimiento como darlo. 
+d)Será tan fácil retirar el consentimiento como darlo.
 
 34.De acuerdo con la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales, para la adopción de las medidas técnicas y organizativas apropiadas que deben aplicar los responsables y encargados del tratamiento tendrán en cuenta, en particular, los mayores riesgos que podrían producirse cuando se lleve a cabo el tratamiento de datos de grupos de afectados en situación de especial vulnerabilidad y, en particular:
 a)De extranjeros ilegales.
@@ -297,5 +297,3 @@ a)Las categorías de datos objeto de tratamiento.
 b)Las fuentes de las que procedieran los datos.
 c)La finalidad del tratamiento.
 d)La identidad del responsable y del encargado del tratamiento.
-
-
