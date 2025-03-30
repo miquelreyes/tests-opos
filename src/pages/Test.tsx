@@ -39,6 +39,14 @@ const Test = () => {
   const [score, setScore] = useState<number | null>(null);
   const [showScore, setShowScore] = useState(false);
 
+  useEffect(() => {
+    window.scrollTo({
+      top: 0,
+      left: 0,
+      behavior: "smooth",
+    });
+  }, [currentIndex]);
+
   const shuffleArray = (array: any[]) => array.sort(() => Math.random() - 0.5);
 
   const shuffleQuestions = useCallback(

@@ -10,8 +10,7 @@
   justify-content: stretch;
   align-items: center;
   width: 100vw;
-  height: 100vh;
-  @apply bg-slate-300;
+  height: 100%;
 }
 
 @layer base {
@@ -133,6 +132,6 @@
     @apply border-border outline-ring/50;
   }
   body {
-    @apply bg-background text-foreground;
+    @apply bg-slate-300 text-foreground;
   }
 }
