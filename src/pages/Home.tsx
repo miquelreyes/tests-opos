@@ -37,46 +37,48 @@ const Home = () => {
   };
 
   return (
-    <div className="flex flex-col gap-3 justify-center align-middle text-center h-full">
-      <h1 className="text-2xl font-bold mb-4">
-        Elige tema y número de preguntas:
-      </h1>
+    <div className="h-full text-center flex flex-col justify-center">
+      <div className="flex flex-col gap-3 justify-center align-middle bg-slate-200 p-6 rounded-lg shadow-lg">
+        <h1 className="text-2xl font-bold mb-4">
+          Elige tema y número de preguntas:
+        </h1>
 
-      <Label htmlFor="topic-select">Tema</Label>
-      <Select
-        value={selectedTopic}
-        onValueChange={(value) => {
-          setSelectedTopic(value);
-        }}
-      >
-        <SelectTrigger className="w-full">
-          <SelectValue placeholder="Elige un tema" />
-        </SelectTrigger>
-        <SelectContent id="topic-select" className="w-full">
-          {topics.map((topic, index) => (
-            <SelectItem key={topic} value={topic} className="text-black">
-              {`Tema ${index + 1}`}
+        <Label htmlFor="topic-select">Tema</Label>
+        <Select
+          value={selectedTopic}
+          onValueChange={(value) => {
+            setSelectedTopic(value);
+          }}
+        >
+          <SelectTrigger className="w-full">
+            <SelectValue placeholder="Elige un tema" />
+          </SelectTrigger>
+          <SelectContent id="topic-select" className="w-full">
+            {topics.map((topic, index) => (
+              <SelectItem key={topic} value={topic} className="text-black">
+                {`Tema ${index + 1}`}
+              </SelectItem>
+            ))}
+            <SelectItem key={"mixed"} value={"mixed"} className="text-black">
+              Mezcladas
             </SelectItem>
-          ))}
-          <SelectItem key={"mixed"} value={"mixed"} className="text-black">
-            Mezcladas
-          </SelectItem>
-        </SelectContent>
-      </Select>
+          </SelectContent>
+        </Select>
 
-      <Label htmlFor="questions-input">Número de preguntas</Label>
-      <Input
-        id="questions-input"
-        type="number"
-        min="1"
-        max="750"
-        value={numberOfQuestions}
-        onChange={(e) => setNumberOfQuestions(parseInt(e.target.value))}
-      />
-      <Button onClick={handleStartTest}>Comenzar Test</Button>
-      <Button variant={"secondary"} onClick={handleStartExam}>
-        Modo examen
-      </Button>
+        <Label htmlFor="questions-input">Número de preguntas</Label>
+        <Input
+          id="questions-input"
+          type="number"
+          min="1"
+          max="750"
+          value={numberOfQuestions}
+          onChange={(e) => setNumberOfQuestions(parseInt(e.target.value))}
+        />
+        <Button onClick={handleStartTest}>Comenzar Test</Button>
+        <Button variant={"secondary"} onClick={handleStartExam}>
+          Modo examen
+        </Button>
+      </div>
     </div>
   );
 };
