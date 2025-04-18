@@ -6,6 +6,7 @@ import { useMemo } from "react"
 import { useCallback } from "react"
 import { TestData, TestQuestion } from "@/types"
 import { Button } from "@/components/ui/button"
+import TestSummary from "@/components/TestSummary"
 
 const testData: TestData = testDataJson
 
@@ -154,8 +155,12 @@ const Test = () => {
                 {score}/{questions.length}
               </h2>
               <div>
-                <Button onClick={reviewTest}>Revisar</Button>
+                <Button onClick={reviewTest}>{"< Seguir contestando"}</Button>
               </div>
+              <TestSummary
+                questions={questions}
+                selectedAnswers={selectedAnswers}
+              />
             </div>
           ) : (
             <>
