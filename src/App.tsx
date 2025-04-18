@@ -1,6 +1,6 @@
-import { HashRouter as Router, Routes, Route } from "react-router-dom";
-import Home from "./pages/Home";
-import Test from "./pages/Test";
+import { HashRouter as Router, Routes, Route } from "react-router-dom"
+import Home from "./pages/Home"
+import Test from "./pages/Test"
 
 function App() {
   return (
@@ -10,7 +10,7 @@ function App() {
         <Route path="/test/:topic" element={<Test />} />
       </Routes>
     </Router>
-  );
+  )
 }
 
-export default App;
+export default App

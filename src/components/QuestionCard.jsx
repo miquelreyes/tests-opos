@@ -1,30 +1,30 @@
-import React from "react";
-import { useEffect } from "react";
-import { useMemo } from "react";
-import { useState } from "react";
-import { Button } from "./ui/button";
+import React from "react"
+import { useEffect } from "react"
+import { useMemo } from "react"
+import { useState } from "react"
+import { Button } from "./ui/button"
 
 const QuestionCard = ({ question, options, selected, answer, onSelect }) => {
-  const [preSelectedOption, setPreSelectedOption] = useState(null);
-  const isSelected = useMemo(() => selected !== -1, [selected]);
+  const [preSelectedOption, setPreSelectedOption] = useState(null)
+  const isSelected = useMemo(() => selected !== -1, [selected])
 
   const getOptionStyles = (index) => {
     if (!isSelected) {
-      return "";
+      return ""
     }
 
     if (index === selected && selected != answer) {
-      return "bg-red-500";
+      return "bg-red-500"
     }
 
     if (index === answer) {
-      return "bg-green-500";
+      return "bg-green-500"
     }
-  };
+  }
 
   useEffect(() => {
-    setPreSelectedOption(null);
-  }, [question]);
+    setPreSelectedOption(null)
+  }, [question])
 
   return (
     <div className="bg-slate-200 p-4 rounded-lg shadow-lg flex flex-col gap-2">
@@ -50,7 +50,7 @@ const QuestionCard = ({ question, options, selected, answer, onSelect }) => {
         Responder
       </Button>
     </div>
-  );
-};
+  )
+}
 
-export default QuestionCard;
+export default QuestionCard

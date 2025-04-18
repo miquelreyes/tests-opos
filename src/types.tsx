@@ -1,9 +1,9 @@
 export type TestData = {
-  [topic: string]: TestQuestion[];
-};
+  [topic: string]: TestQuestion[]
+}
 
 export type TestQuestion = {
-  question: string;
-  options: string[];
-  answer: number;
-};
+  question: string
+  options: string[]
+  answer: number
+}

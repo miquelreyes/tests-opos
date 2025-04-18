@@ -1,40 +1,40 @@
-import { useState, useEffect } from "react";
-import { useNavigate } from "react-router-dom";
-import { Button } from "@/components/ui/button";
+import { useState, useEffect } from "react"
+import { useNavigate } from "react-router-dom"
+import { Button } from "@/components/ui/button"
 import {
   Select,
   SelectContent,
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "@/components/ui/select";
-import { Input } from "@/components/ui/input";
-import data from "../../data/data.json";
-import { Label } from "@/components/ui/label";
+} from "@/components/ui/select"
+import { Input } from "@/components/ui/input"
+import data from "../../data/data.json"
+import { Label } from "@/components/ui/label"
 
 const Home = () => {
-  const [topics, setTopics] = useState<string[]>([]);
-  const [selectedTopic, setSelectedTopic] = useState("");
-  const [numberOfQuestions, setNumberOfQuestions] = useState(50);
-  const navigate = useNavigate();
+  const [topics, setTopics] = useState<string[]>([])
+  const [selectedTopic, setSelectedTopic] = useState("")
+  const [numberOfQuestions, setNumberOfQuestions] = useState(50)
+  const navigate = useNavigate()
 
   useEffect(() => {
-    const availableTopics = Object.keys(data);
-    setTopics(availableTopics);
+    const availableTopics = Object.keys(data)
+    setTopics(availableTopics)
     if (availableTopics.length > 0) {
-      setSelectedTopic(availableTopics[0]);
+      setSelectedTopic(availableTopics[0])
     }
-  }, []);
+  }, [])
 
   const handleStartTest = () => {
     if (selectedTopic) {
-      navigate(`/test/${selectedTopic}?questions=${numberOfQuestions}`);
+      navigate(`/test/${selectedTopic}?questions=${numberOfQuestions}`)
     }
-  };
+  }
 
   const handleStartExam = () => {
-    navigate(`/test/exam`);
-  };
+    navigate(`/test/exam`)
+  }
 
   return (
     <div className="h-full text-center flex flex-col justify-center">
@@ -47,7 +47,7 @@ const Home = () => {
         <Select
           value={selectedTopic}
           onValueChange={(value) => {
-            setSelectedTopic(value);
+            setSelectedTopic(value)
           }}
         >
           <SelectTrigger className="w-full">
@@ -80,7 +80,7 @@ const Home = () => {
         </Button>
       </div>
     </div>
-  );
-};
+  )
+}
 
-export default Home;
+export default Home
