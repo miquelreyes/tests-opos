@@ -79,7 +79,7 @@ const Test = () => {
       case "exam":
         Object.values(testData).forEach((topic) => {
           questions = questions.concat(
-            shuffleArray(topic).slice(0, NUM_QUESTIONS_EXAM),
+            shuffleArray(topic).slice(0, NUM_QUESTIONS_TOPIC_EXAM),
           );
         });
         break;
@@ -125,7 +125,6 @@ const Test = () => {
 
   const reviewTest = () => {
     setShowScore(false);
-    setCurrentIndex(0);
   };
 
   const isLastQuestion = useMemo(
