@@ -45,7 +45,7 @@ const TestSummary = ({ questions, selectedAnswers }) => {
           Sin Contestar
         </Button>
       </div>
-      <div className="flex flex-col gap-4">
+      <div className="flex flex-col gap-4 md:flex-row flex-wrap md:justify-center">
         {questions.map(
           (question, index) =>
             showQuestion(question, index) && (
