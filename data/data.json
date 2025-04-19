@@ -78,7 +78,7 @@
         "c)Un valor fundamental de la cultura española.",
         "d)Las respuestas a) y b) son correctas."
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "question": "9.¿La Constitución española establece que el castellano es la lengua española oficial del Estado?",
@@ -850,7 +850,7 @@
         "c)El producto de operaciones de débito.",
         "d)Las respuestas a) y b) son correctas."
       ],
-      "answer": 3
+      "answer": 0
     },
     {
       "question": "36.Según el artículo 157 de la Constitución española, los recursos de las comunidades autónomas estarán constituidos, entre otros:",
@@ -1292,7 +1292,7 @@
         "c)La Interpol.",
         "d)El Banco Central Europeo."
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "question": "33. El Parlamento Europeo estará compuesto por representantes de los ciudadanos de la Unión, con un número de:",
@@ -2116,7 +2116,7 @@
         "c) Los miembros de la Mesa del Parlamento cesan por negligencia notoria y grave en el cumplimiento del cargo, acordada por el Pleno del Parlamento.",
         "d) Son comisiones no permanentes las que se creen para un trabajo concreto."
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "question": "17. Corresponde al Parlamento de las Illes Balears:",
@@ -2316,7 +2316,7 @@
         "c) Por cuatro diputados.",
         "d) Por un diputado."
       ],
-      "answer": 2
+      "answer": 0
     },
     {
       "question": "37. El presidente o la presidenta del Parlamento de las Illes Balears tiene el tratamiento de:",
@@ -2326,7 +2326,7 @@
         "c) Ilustrísimo o Ilustrísima.",
         "d) Muy Honorable."
       ],
-      "answer": 3
+      "answer": 0
     },
     {
       "question": "38. Indique la respuesta incorrecta sobre las funciones del presidente o presidenta del Parlamento de las Illes Balears:",
@@ -2376,7 +2376,7 @@
         "c) El presidente o la presidenta del Parlamento, oída la Mesa.",
         "d) La Mesa del Parlamento, a propuesta del Gobierno."
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "question": "43. Indique la respuesta incorrecta en relación con el Parlamento de las Illes Balears:",
@@ -2386,7 +2386,7 @@
         "c) Los diputados y grupos parlamentarios podrán formular interpelaciones a cada uno de los miembros del Gobierno de las Illes Balears.",
         "d) Los grupos parlamentarios podrán presentar proposiciones de ley a través de las cuales formulen propuestas de resolución en la cámara."
       ],
-      "answer": 2
+      "answer": 3
     },
     {
       "question": "44. En el Parlamento de las Illes Balears, la constitución de los grupos parlamentarios se realizará, mediante escrito dirigido a la Mesa de la cámara:",
@@ -2811,14 +2811,14 @@
       "answer": 0
     },
     {
-      "question": "36.  La regulación del control del Gobierno de las Illes Balears y la representación ante el Parlamento viene determinado:",
+      "question": "36. La regulación del cese del Gobierno de las Illes Balears y el proceso de transición viene determinado:",
       "options": [
-        "a) En el capítulo IV del título II de la Ley 1/2019, de 31 de enero, del Gobierno de las Illes Balears.",
-        "b) En el capítulo III del título II de la Ley 2/2019, de 31 de enero, del Gobierno de las Illes Balears.",
-        "c) En el capítulo IV del título III de la Ley 1/2019, de 31 de enero, de régimen jurídico del Gobierno de las Illes Balears.",
-        "d) En el capítulo IV del título I de la Ley 1/2019, de 31 de enero, del Gobierno de las Illes Balears."
+        "a) En el capítulo IV del título II de la Ley 2/2019, de 31 de enero, del Gobierno de las Islas Baleares.",
+        "b) En el capítulo V del título II de la Ley 1/2019, de 31 de enero, del Gobierno de las Islas Baleares.",
+        "c) En el capítulo V del título III de la Ley 1/2019, de 31 de enero, de régimen jurídico del Gobierno de las Illes Balears.",
+        "d) En el capítulo V del título I de la Ley 1/2019, de 31 de enero, del Gobierno de las Islas Baleares."
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "question": "37. Indique la respuesta incorrecta. Los consejeros del Gobierno de las Illes Balears cesan por alguna de las siguientes causas:",
@@ -3020,7 +3020,7 @@
         "c) No son fuente del derecho, salvo que estén publicados oficialmente en España.",
         "d) Siempre son fuentes indirectas."
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "question": "7. Los principios generales del derecho se aplican en defecto de:",
@@ -3130,7 +3130,7 @@
         "c) Proposición de ley por la vía de urgencia.",
         "d) Proyecto de ley por la vía de urgencia."
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "question": "18.  Las disposiciones del Ejecutivo que desarrollan una ley deben aprobarse:",
@@ -3190,7 +3190,7 @@
         "c) Al Senado.",
         "d) Todas las respuestas son incorrectas."
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "question": "24.  Las leyes entran en vigor, si no disponen lo contrario:",
@@ -3330,7 +3330,7 @@
         "c) La mayoría absoluta en el Congreso de los Diputados y la mayoría simple en el Senado.",
         "d) La mayoría absoluta tanto en el Congreso de los Diputados como en el Senado."
       ],
-      "answer": -1
+      "answer": 2
     },
     {
       "question": "38. Las leyes dictadas por las Asambleas Legislativas de las Comunidades Autónomas se publican siempre:",
@@ -3370,7 +3370,7 @@
         "c) Competencia.",
         "d) Territorialidad."
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "question": "42.  Respecto de la Ley, el Reglamento es una norma:",
@@ -3430,7 +3430,7 @@
         "c) Órdenes del Ministro de la Presidencia, a propuesta del ministerio interesado.",
         "d) Órdenes del Consejo de Ministros."
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "question": "48.  ¿Qué clase de ley no existe?:",
@@ -3782,7 +3782,7 @@
         "c) No impedirá a los interesados interponer los recursos procedentes contra la resolución provisional del procedimiento.",
         "d) Otorga la condición de interesado en el procedimiento."
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "question": "33) Según el art. 84.1 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, es una forma de terminación del procedimiento:",
@@ -5173,7 +5173,7 @@
         "c) La expedición de copias auténticas en formato de papel.",
         "d) Todas las respuestas son correctas."
       ],
-      "answer": 3
+      "answer": 0
     },
     {
       "question": "23. Si una oficina de asistencia en materia de registros (OAMR) no puede enviar, por exceso de capacidad, un documento a través del Sistema de interconexión de registros (SIR) a otra administración, que debe hacer según el Real Decreto 203/2021, de 30 de marzo, por el que se aprueba el Reglamento de actuación y funcionamiento del sector público por medios electrónicos?",
@@ -5183,7 +5183,7 @@
         "c) Enviar el documento mediante el repositorio de intercambio de archivos RIPEA.",
         "d) Las respuestas a) y b) son correctas."
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "question": "24. ¿Quién coordina las oficinas de asistencia en materia de registros según el Decreto 11/2021, de 15 de febrero, relativo a la estructura de las consejerías de la Administración autonómica?",
@@ -5263,7 +5263,7 @@
         "c) Sí, presentándose en una unidad de registro de cualquier consejería de la Administración de la Comunidad Autónoma de las Illes Balears.",
         "d) Las respuestas a) y c) son correctas."
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "question": "32. El Decreto 82/2009, de 13 de noviembre, por el que se regula la gestión de las quejas y sugerencias sobre el funcionamiento de los servicios públicos de la Administración de la Comunidad Autónoma de las Illes Balears es aplicable a:",
@@ -5293,7 +5293,7 @@
         "c) Tiene entrada en la unidad administrativa destinataria.",
         "d) Ninguna respuesta es correcta."
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "question": "35. Indique la respuesta correcta en relación con las quejas y sugerencias:",
@@ -5495,7 +5495,7 @@
         "c) Uno o más organismos públicos o entidades de derecho público o privado, entre otros.",
         "d) Las respuestas a) y c) son correctas."
       ],
-      "answer": 3
+      "answer": 0
     },
     {
       "question": "5. ¿Puede corresponder la titularidad de una sede electrónica a más de una entidad de derecho público?",
@@ -5635,7 +5635,7 @@
         "c) Se constituyen grupos de trabajo, en los órganos colegiados con competencia en materia de administración electrónica, que redactan y mantienen las normas técnicas.",
         "d) El Ministerio de Asuntos Económicos y Transformación Digital podrá aprobar futuras normas, siempre que sean necesarias para garantizar el adecuado nivel de interoperabilidad."
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "question": "19. ¿Cuál de las siguientes opciones no es una Norma Técnica de Interoperabilidad?",
@@ -5765,7 +5765,7 @@
         "c) Consultar el Catálogo de Servicios de Verificación y Consulta de Datos SCSP (Sustitución de Certificados en Soporte Papel).",
         "d) Acceder al apartado de servicios SCSP (Sustitución de Certificados en Soporte Papel) del portal de datos abiertos."
       ],
-      "answer": 1
+      "answer": 2
     },
     {
       "question": "32. ¿Dónde se detallan los servicios que se ofrecen mediante la Plataforma de Interoperabilidad de las Illes Balears?",
@@ -5775,7 +5775,7 @@
         "c) En la sede electrónica del Gobierno de las Illes Balears.",
         "d) Todas las respuestas son incorrectas."
       ],
-      "answer": 2
+      "answer": 0
     },
     {
       "question": "33. En materia de servicios de tráfico de la Dirección General de Tráfico que se ofrecen a través de la Plataforma de Interoperabilidad de las Illes Balears, ¿se puede conocer la fecha de caducidad de la Inspección Técnica de Vehículos de un vehículo?",
@@ -5785,7 +5785,7 @@
         "c) No, actualmente este dato todavía no puede obtenerse a través de la plataforma.",
         "d) No, no se trata de un dato que pueda ofrecerse como servicio de intermediación entre administraciones."
       ],
-      "answer": 2
+      "answer": 0
     },
     {
       "question": "34. En la Plataforma de Interoperabilidad de las Illes Balears y haciendo uso del servicio de consulta del distintivo medioambiental de un vehículo, ¿cuáles de los siguientes conjuntos de datos podemos obtener a partir de una matrícula de coche?",
@@ -5967,7 +5967,7 @@
         "c)Por la Ley 31/1995, de 8 de noviembre, de prevención de riesgos laborales, las disposiciones de desarrollo o complementarias, y las normas internacionales.",
         "d)Por la Ley 31/1995, de 8 de noviembre, de prevención de riesgos laborales, disposiciones de desarrollo o complementarias, y todas aquellas otras normas legales o convencionales, que contengan prescripciones relativas a la adopción de medidas preventivas en el ámbito laboral."
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "question": "2.La Ley 31/1995, de 8 de noviembre, de prevención de riesgos laborales tiene por objeto:",
@@ -6127,7 +6127,7 @@
         "c)Asesoramiento técnico en la elaboración de la normativa legal y en el desarrollo de la normalización, tanto en el ámbito nacional como internacional.",
         "d)Vigilancia del cumplimiento de la normativa sobre prevención de riesgos laborales."
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "question": "18.De acuerdo con la Ley 31/1995, de 8 de noviembre, de prevención de riesgo laborales, la función de la Inspección de Trabajo y Seguridad Social es:",
@@ -6649,7 +6649,7 @@
         "c)Fomentar la formación en igualdad, tanto en el acceso al empleo público como a lo largo de la carrera profesional.",
         "d)Promover la presencia equilibrada de mujeres de todas las edades en los órganos de selección y valoración."
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "question": "20. ¿En qué casos no es necesario que se adjunte un informe de impacto de género a la aprobación de convocatorias de pruebas selectivas para el acceso al empleo público?:",
@@ -6712,14 +6712,14 @@
       "answer": 1
     },
     {
-      "question": "26.No cumplir las obligaciones que en materia de planes y medidas de igualdad establecen la Ley orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, el Estatuto de los trabajadores o el convenio colectivo que sea aplicable está tipificado como falta…:",
+      "question": "26. ¿Qué derechos tienen en cuanto a la ordenación del tiempo de trabajo las funcionarias víctimas de violencia sobre la mujer para hacer efectiva su protección o su derecho a la asistencia social integral?",
       "options": [
-        "a)Leve.",
-        "b)Grave.",
-        "c)Muy grave.",
-        "d)No está tipificado"
+        "a) Derecho a la reducción de la jornada con la disminución proporcional de la retribución, o la reorganización del tiempo de trabajo, mediante la adaptación del horario, la aplicación del horario flexible u otras formas de ordenación del tiempo de trabajo que sean aplicables, en los términos que para estos supuestos establezca el plan de igualdad aplicable o, si no lo hay, la administración pública competente en cada caso.",
+        "b) Derecho a la reducción de la jornada sin la disminución proporcional de la retribución, o la reorganización del tiempo de trabajo, mediante la adaptación del horario, la aplicación del horario flexible u otras formas de ordenación del tiempo de trabajo que sean aplicables, en los términos que para estos supuestos establezca el plan de igualdad aplicable o, si no lo hay, la administración pública competente en cada caso.",
+        "c) Derecho a la reducción de la jornada sin la disminución proporcional de la retribución, o la reorganización del tiempo de trabajo, mediante la adaptación del horario, la aplicación del horario flexible u otras formas de ordenación del tiempo de trabajo que sean aplicables, en los términos que para estos supuestos establezca el nombramiento y el plan de igualdad aplicable o, si no lo hay, la administración pública competente en cada caso.",
+        "d) Derecho a la reducción de la jornada con la disminución proporcional de la retribución, o la reorganización de los días de trabajo, mediante la adaptación laboral, la aplicación del horario flexible u otras formas de ordenación del tiempo de trabajo que sean aplicables, en los términos que para estos supuestos establezca el plan de igualdad aplicable o, si no lo hay, la administración pública competente en cada caso."
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "question": "27.No cumplir las obligaciones que en materia de planes y medidas de igualdad establecen la Ley orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, el Estatuto de los trabajadores o el convenio colectivo que sea aplicable está tipificado como falta…:",
@@ -6799,7 +6799,7 @@
         "c) No, los entes del sector público instrumental de la CAIB deben aprobar sus propios planes de igualdad.",
         "d) No, si bien los planes de igualdad de los entes que integran el sector público instrumental de la CAIB deben incluir las mismas medidas que el de la Administración de la Comunidad Autónoma de las Illes Balears."
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "question": "35.En relación a los Planes de Igualdad, indica qué respuesta no es correcta:",
@@ -6829,7 +6829,7 @@
         "c)Cualquier acto discriminatorio el que se encuentre una persona.",
         "d)Cualquier trato hostil o vejatorio en el que una persona se sienta sometida dentro del ámbito laboral."
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "question": "38.La definición de acoso sexual viene recogida en:",
@@ -7241,7 +7241,7 @@
         "c)Del contrato de tratamiento de datos firmado con el responsable.",
         "d)De los derechos relacionados con las decisiones individuales automatizadas."
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "question": "29.De acuerdo con el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, Reglamento general de protección de datos, ¿cuando el interesado no tiene derecho a no ser objeto de una decisión basada únicamente en el tratamiento automatizado?",
@@ -7346,7 +7346,7 @@
         "c)El derecho a presentar una reclamación ante el propio responsable.",
         "d)Los destinatarios o las categorías de destinatarios de los datos personales, en su caso."
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "question": "40.De acuerdo con la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales, se deberá mantener un registro de actividades del tratamiento de datos, que podrá organizarse en torno a:",
