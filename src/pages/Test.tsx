@@ -137,6 +137,8 @@ const Test = () => {
     navigate(-1)
   }
 
+  const hideAnswerLetter = useMemo(() => topic === 'tema5' || topic === 'tema6', [topic])
+
   return (
     <div className="flex flex-col justify-start h-full w-full">
       <Button
@@ -171,6 +173,7 @@ const Test = () => {
                 answer={questions[currentIndex]?.answer}
                 selected={selectedAnswers[currentIndex]}
                 onSelect={handleSelect}
+                hideAnswerLetter={hideAnswerLetter}
               />
               <div className="flex align-middle justify-center gap-2 w-full">
                 <Button

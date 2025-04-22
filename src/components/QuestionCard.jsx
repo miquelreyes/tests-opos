@@ -3,7 +3,14 @@ import { useMemo } from "react"
 import { useState } from "react"
 import { Button } from "./ui/button"
 
-const QuestionCard = ({ question, options, selected, answer, onSelect }) => {
+const QuestionCard = ({
+  question,
+  options,
+  selected,
+  answer,
+  onSelect,
+  hideAnswerLetter,
+}) => {
   const [preSelectedOption, setPreSelectedOption] = useState(null)
   const isSelected = useMemo(() => selected !== -1, [selected])
 
@@ -37,7 +44,7 @@ const QuestionCard = ({ question, options, selected, answer, onSelect }) => {
             className={`w-full h-fit whitespace-normal text-left p-2 ${preSelectedOption === index && "bg-blue-500 text-white"} ${getOptionStyles(index)}`}
             onClick={() => setPreSelectedOption(index)}
           >
-            {option}
+            {hideAnswerLetter ? option.slice(2) : option}
           </Button>
         ))}
       </div>
