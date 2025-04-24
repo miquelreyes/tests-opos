@@ -673,7 +673,7 @@ A
 D
 A
 B
-B
+A
 B
 D
 A
