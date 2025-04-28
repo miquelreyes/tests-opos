@@ -681,7 +681,7 @@ D
 C
 A
 A
-B
+C
 A
 A
 B
